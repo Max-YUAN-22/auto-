@@ -25,7 +25,7 @@ import {
   AccountBalance as AccountBalanceIcon, Public as PublicIcon
 } from '@mui/icons-material';
 
-// 企业级主题配置
+// 企业级主题配置 - 增强版
 const enterpriseTheme = createTheme({
   palette: {
     mode: 'light',
@@ -49,23 +49,31 @@ const enterpriseTheme = createTheme({
       main: '#f44336',
     },
     background: {
-      default: '#f5f5f5',
+      default: '#f8fafc',
       paper: '#ffffff',
     },
   },
   typography: {
-    fontFamily: '"Roboto", "Helvetica", "Arial", sans-serif',
+    fontFamily: '"Inter", "Roboto", "Helvetica", "Arial", sans-serif',
     h1: {
+      fontSize: '3rem',
+      fontWeight: 800,
+      lineHeight: 1.1,
+      background: 'linear-gradient(135deg, #1976d2 0%, #42a5f5 100%)',
+      backgroundClip: 'text',
+      WebkitBackgroundClip: 'text',
+      WebkitTextFillColor: 'transparent',
+    },
+    h2: {
       fontSize: '2.5rem',
       fontWeight: 700,
       lineHeight: 1.2,
     },
-    h2: {
-      fontSize: '2rem',
-      fontWeight: 600,
-      lineHeight: 1.3,
-    },
     h3: {
+      fontSize: '1.75rem',
+      fontWeight: 600,
+    },
+    h4: {
       fontSize: '1.5rem',
       fontWeight: 600,
     },
@@ -74,12 +82,14 @@ const enterpriseTheme = createTheme({
     MuiCard: {
       styleOverrides: {
         root: {
-          boxShadow: '0 2px 8px rgba(0,0,0,0.1)',
-          borderRadius: '12px',
-          transition: 'all 0.3s ease',
+          boxShadow: '0 4px 20px rgba(0,0,0,0.08)',
+          borderRadius: '16px',
+          transition: 'all 0.4s cubic-bezier(0.4, 0, 0.2, 1)',
+          border: '1px solid rgba(0,0,0,0.05)',
           '&:hover': {
-            boxShadow: '0 4px 16px rgba(0,0,0,0.15)',
-            transform: 'translateY(-2px)',
+            boxShadow: '0 8px 32px rgba(0,0,0,0.12)',
+            transform: 'translateY(-4px)',
+            border: '1px solid rgba(25, 118, 210, 0.2)',
           },
         },
       },
@@ -87,9 +97,25 @@ const enterpriseTheme = createTheme({
     MuiButton: {
       styleOverrides: {
         root: {
-          borderRadius: '8px',
+          borderRadius: '12px',
           textTransform: 'none',
           fontWeight: 600,
+          padding: '12px 24px',
+          fontSize: '1rem',
+          transition: 'all 0.3s ease',
+          '&:hover': {
+            transform: 'translateY(-2px)',
+            boxShadow: '0 4px 12px rgba(0,0,0,0.15)',
+          },
+        },
+      },
+    },
+    MuiChip: {
+      styleOverrides: {
+        root: {
+          borderRadius: '20px',
+          fontWeight: 500,
+          fontSize: '0.875rem',
         },
       },
     },
