@@ -451,7 +451,7 @@ function EnterpriseNavigation() {
 // 企业级App组件
 function EnterpriseApp() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/">
       <ThemeProvider theme={enterpriseTheme}>
         <CssBaseline />
         <EnterpriseNavigation />
