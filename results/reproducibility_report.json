@@ -1,0 +1,233 @@
+{
+  "timestamp": 1757867088.217209,
+  "random_seed": 42,
+  "test_runs": 3,
+  "tolerance": 0.1,
+  "environment": {
+    "python_version": "3.12.2 | packaged by conda-forge | (main, Feb 16 2024, 20:54:21) [Clang 16.0.6 ]",
+    "platform": "macOS-14.3-arm64-arm-64bit",
+    "cpu_count": 8,
+    "memory_gb": 16.0,
+    "python_hash_seed": "42",
+    "working_directory": "/Users/Apple/Desktop/multi-agent-dsl-final",
+    "timestamp": 1757867084.337833,
+    "dependencies": {
+      "numpy": "2.2.2",
+      "pandas": "2.2.3",
+      "matplotlib": "3.10.0",
+      "psutil": "5.9.0",
+      "langchain": "0.3.27",
+      "openai": "1.107.0",
+      "crewai": "0.186.1",
+      "autogen": "0.9.9"
+    }
+  },
+  "api_configuration_valid": false,
+  "tests": {
+    "our_dsl": {
+      "test_name": "Our DSL Framework",
+      "runs": [
+        {
+          "throughput": 0,
+          "latency": 0,
+          "success_rate": 0,
+          "memory_usage": 0,
+          "task_count": 0,
+          "error": "'DSL' object has no attribute 'task'",
+          "run_id": 1,
+          "execution_time": 0.0036287307739257812,
+          "timestamp": 1757867087.81125
+        },
+        {
+          "throughput": 0,
+          "latency": 0,
+          "success_rate": 0,
+          "memory_usage": 0,
+          "task_count": 0,
+          "error": "'DSL' object has no attribute 'task'",
+          "run_id": 2,
+          "execution_time": 0.00015306472778320312,
+          "timestamp": 1757867087.8114371
+        },
+        {
+          "throughput": 0,
+          "latency": 0,
+          "success_rate": 0,
+          "memory_usage": 0,
+          "task_count": 0,
+          "error": "'DSL' object has no attribute 'task'",
+          "run_id": 3,
+          "execution_time": 0.00016498565673828125,
+          "timestamp": 1757867087.811622
+        }
+      ],
+      "consistency": {
+        "is_consistent": true,
+        "metrics_analysis": {
+          "throughput": {
+            "mean": 0.0,
+            "std": 0.0,
+            "cv": 0,
+            "is_consistent": true,
+            "values": [
+              0,
+              0,
+              0
+            ]
+          },
+          "latency": {
+            "mean": 0.0,
+            "std": 0.0,
+            "cv": 0,
+            "is_consistent": true,
+            "values": [
+              0,
+              0,
+              0
+            ]
+          },
+          "success_rate": {
+            "mean": 0.0,
+            "std": 0.0,
+            "cv": 0,
+            "is_consistent": true,
+            "values": [
+              0,
+              0,
+              0
+            ]
+          },
+          "memory_usage": {
+            "mean": 0.0,
+            "std": 0.0,
+            "cv": 0,
+            "is_consistent": true,
+            "values": [
+              0,
+              0,
+              0
+            ]
+          },
+          "task_count": {
+            "mean": 0.0,
+            "std": 0.0,
+            "cv": 0,
+            "is_consistent": true,
+            "values": [
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "failed_metrics": []
+      },
+      "is_reproducible": true
+    },
+    "langchain": {
+      "test_name": "LangChain Framework",
+      "runs": [
+        {
+          "throughput": 0,
+          "latency": 0,
+          "success_rate": 0,
+          "memory_usage": 0,
+          "task_count": 0,
+          "error": "1 validation error for OpenAI\n  Value error, Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. [type=value_error, input_value={'temperature': 0, 'model...ne, 'http_client': None}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.10/v/value_error",
+          "run_id": 1,
+          "execution_time": 0.4048340320587158,
+          "timestamp": 1757867088.216821
+        },
+        {
+          "throughput": 0,
+          "latency": 0,
+          "success_rate": 0,
+          "memory_usage": 0,
+          "task_count": 0,
+          "error": "1 validation error for OpenAI\n  Value error, Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. [type=value_error, input_value={'temperature': 0, 'model...ne, 'http_client': None}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.10/v/value_error",
+          "run_id": 2,
+          "execution_time": 0.00011301040649414062,
+          "timestamp": 1757867088.216974
+        },
+        {
+          "throughput": 0,
+          "latency": 0,
+          "success_rate": 0,
+          "memory_usage": 0,
+          "task_count": 0,
+          "error": "1 validation error for OpenAI\n  Value error, Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. [type=value_error, input_value={'temperature': 0, 'model...ne, 'http_client': None}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.10/v/value_error",
+          "run_id": 3,
+          "execution_time": 8.797645568847656e-05,
+          "timestamp": 1757867088.217083
+        }
+      ],
+      "consistency": {
+        "is_consistent": true,
+        "metrics_analysis": {
+          "throughput": {
+            "mean": 0.0,
+            "std": 0.0,
+            "cv": 0,
+            "is_consistent": true,
+            "values": [
+              0,
+              0,
+              0
+            ]
+          },
+          "latency": {
+            "mean": 0.0,
+            "std": 0.0,
+            "cv": 0,
+            "is_consistent": true,
+            "values": [
+              0,
+              0,
+              0
+            ]
+          },
+          "success_rate": {
+            "mean": 0.0,
+            "std": 0.0,
+            "cv": 0,
+            "is_consistent": true,
+            "values": [
+              0,
+              0,
+              0
+            ]
+          },
+          "memory_usage": {
+            "mean": 0.0,
+            "std": 0.0,
+            "cv": 0,
+            "is_consistent": true,
+            "values": [
+              0,
+              0,
+              0
+            ]
+          },
+          "task_count": {
+            "mean": 0.0,
+            "std": 0.0,
+            "cv": 0,
+            "is_consistent": true,
+            "values": [
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "failed_metrics": []
+      },
+      "is_reproducible": true
+    }
+  },
+  "overall_reproducibility": {
+    "our_dsl_reproducible": true,
+    "langchain_reproducible": true,
+    "overall_score": "high"
+  }
+}

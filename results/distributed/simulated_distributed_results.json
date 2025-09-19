@@ -1,0 +1,3956 @@
+{
+  "experiment_duration": 12.545440912246704,
+  "total_throughput": 15.94204630980825,
+  "success_rate": 1.0,
+  "results": [
+    {
+      "task_id": "task_0",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_0",
+        "node_id": "node_5",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662491.041595
+    },
+    {
+      "task_id": "task_1",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_1",
+        "node_id": "node_5",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662491.441383
+    },
+    {
+      "task_id": "task_2",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_2",
+        "node_id": "node_5",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "traffic",
+          "weather"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662491.141526
+    },
+    {
+      "task_id": "task_3",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_3",
+        "node_id": "node_5",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "safety",
+          "parking"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662491.4414458
+    },
+    {
+      "task_id": "task_4",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_4",
+        "node_id": "node_5",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "traffic",
+          "safety",
+          "weather"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662491.141655
+    },
+    {
+      "task_id": "task_5",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_5",
+        "node_id": "node_5",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "weather",
+          "parking",
+          "safety"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662491.248277
+    },
+    {
+      "task_id": "task_6",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_6",
+        "node_id": "node_1",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662491.2528331
+    },
+    {
+      "task_id": "task_7",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_7",
+        "node_id": "node_2",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662491.458304
+    },
+    {
+      "task_id": "task_8",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_8",
+        "node_id": "node_3",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "weather"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662491.769274
+    },
+    {
+      "task_id": "task_9",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_9",
+        "node_id": "node_1",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "safety",
+          "parking"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662491.764193
+    },
+    {
+      "task_id": "task_10",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_10",
+        "node_id": "node_1",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "traffic",
+          "safety",
+          "weather"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662491.752568
+    },
+    {
+      "task_id": "task_11",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_11",
+        "node_id": "node_1",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "weather",
+          "parking",
+          "safety"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662491.95239
+    },
+    {
+      "task_id": "task_12",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_12",
+        "node_id": "node_1",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662491.969138
+    },
+    {
+      "task_id": "task_13",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_13",
+        "node_id": "node_2",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662492.0693
+    },
+    {
+      "task_id": "task_14",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_14",
+        "node_id": "node_3",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "weather"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662491.884531
+    },
+    {
+      "task_id": "task_15",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_15",
+        "node_id": "node_4",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "safety",
+          "parking"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662491.895736
+    },
+    {
+      "task_id": "task_16",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_16",
+        "node_id": "node_2",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "traffic",
+          "safety",
+          "weather"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662492.2002208
+    },
+    {
+      "task_id": "task_17",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_17",
+        "node_id": "node_4",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "weather",
+          "parking",
+          "safety"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662492.422405
+    },
+    {
+      "task_id": "task_18",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_18",
+        "node_id": "node_4",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662492.2789419
+    },
+    {
+      "task_id": "task_19",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_19",
+        "node_id": "node_2",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662492.485582
+    },
+    {
+      "task_id": "task_20",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_20",
+        "node_id": "node_3",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "weather"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662492.1906822
+    },
+    {
+      "task_id": "task_21",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_21",
+        "node_id": "node_4",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "safety",
+          "parking"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662492.7173288
+    },
+    {
+      "task_id": "task_22",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_22",
+        "node_id": "node_4",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "traffic",
+          "safety",
+          "weather"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662492.526654
+    },
+    {
+      "task_id": "task_23",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_23",
+        "node_id": "node_4",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "weather",
+          "parking",
+          "safety"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662492.505589
+    },
+    {
+      "task_id": "task_24",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_24",
+        "node_id": "node_3",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662492.543308
+    },
+    {
+      "task_id": "task_25",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_25",
+        "node_id": "node_3",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662493.006798
+    },
+    {
+      "task_id": "task_26",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_26",
+        "node_id": "node_3",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "weather"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662492.827287
+    },
+    {
+      "task_id": "task_27",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_27",
+        "node_id": "node_4",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "safety",
+          "parking"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662492.853281
+    },
+    {
+      "task_id": "task_28",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_28",
+        "node_id": "node_3",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "safety",
+          "weather"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662492.764259
+    },
+    {
+      "task_id": "task_29",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_29",
+        "node_id": "node_3",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "weather",
+          "parking",
+          "safety"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662493.23878
+    },
+    {
+      "task_id": "task_30",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_30",
+        "node_id": "node_3",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662493.285954
+    },
+    {
+      "task_id": "task_31",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_31",
+        "node_id": "node_2",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662493.043691
+    },
+    {
+      "task_id": "task_32",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_32",
+        "node_id": "node_3",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "weather"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662493.175155
+    },
+    {
+      "task_id": "task_33",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_33",
+        "node_id": "node_5",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "safety",
+          "parking"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662493.313474
+    },
+    {
+      "task_id": "task_34",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_34",
+        "node_id": "node_5",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "traffic",
+          "safety",
+          "weather"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662493.557655
+    },
+    {
+      "task_id": "task_35",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_35",
+        "node_id": "node_5",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "weather",
+          "parking",
+          "safety"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662493.381664
+    },
+    {
+      "task_id": "task_36",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_36",
+        "node_id": "node_5",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662493.445503
+    },
+    {
+      "task_id": "task_37",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_37",
+        "node_id": "node_2",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662493.602077
+    },
+    {
+      "task_id": "task_38",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_38",
+        "node_id": "node_5",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "traffic",
+          "weather"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662493.6198559
+    },
+    {
+      "task_id": "task_39",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_39",
+        "node_id": "node_2",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "safety",
+          "parking"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662493.5986261
+    },
+    {
+      "task_id": "task_40",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_40",
+        "node_id": "node_2",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "traffic",
+          "safety",
+          "weather"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662493.962174
+    },
+    {
+      "task_id": "task_41",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_41",
+        "node_id": "node_2",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "weather",
+          "parking",
+          "safety"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662493.774061
+    },
+    {
+      "task_id": "task_42",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_42",
+        "node_id": "node_1",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662493.909301
+    },
+    {
+      "task_id": "task_43",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_43",
+        "node_id": "node_2",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662493.717676
+    },
+    {
+      "task_id": "task_44",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_44",
+        "node_id": "node_1",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "traffic",
+          "weather"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662493.931637
+    },
+    {
+      "task_id": "task_45",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_45",
+        "node_id": "node_4",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "safety",
+          "parking"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662493.844287
+    },
+    {
+      "task_id": "task_46",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_46",
+        "node_id": "node_1",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "traffic",
+          "safety",
+          "weather"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662494.084911
+    },
+    {
+      "task_id": "task_47",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_47",
+        "node_id": "node_1",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "weather",
+          "parking",
+          "safety"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662494.3564281
+    },
+    {
+      "task_id": "task_48",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_48",
+        "node_id": "node_1",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662494.220735
+    },
+    {
+      "task_id": "task_49",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_49",
+        "node_id": "node_2",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662494.1480849
+    },
+    {
+      "task_id": "task_50",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_50",
+        "node_id": "node_1",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "traffic",
+          "weather"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662494.2739542
+    },
+    {
+      "task_id": "task_51",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_51",
+        "node_id": "node_4",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "safety",
+          "parking"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662494.611486
+    },
+    {
+      "task_id": "task_52",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_52",
+        "node_id": "node_4",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "traffic",
+          "safety",
+          "weather"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662494.2741199
+    },
+    {
+      "task_id": "task_53",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_53",
+        "node_id": "node_4",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "weather",
+          "parking",
+          "safety"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662494.447204
+    },
+    {
+      "task_id": "task_54",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_54",
+        "node_id": "node_4",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662494.6004732
+    },
+    {
+      "task_id": "task_55",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_55",
+        "node_id": "node_4",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662494.80052
+    },
+    {
+      "task_id": "task_56",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_56",
+        "node_id": "node_3",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "weather"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662494.477809
+    },
+    {
+      "task_id": "task_57",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_57",
+        "node_id": "node_4",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "safety",
+          "parking"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662494.773837
+    },
+    {
+      "task_id": "task_58",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_58",
+        "node_id": "node_4",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "traffic",
+          "safety",
+          "weather"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662494.8034308
+    },
+    {
+      "task_id": "task_59",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_59",
+        "node_id": "node_4",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "weather",
+          "parking",
+          "safety"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662494.926914
+    },
+    {
+      "task_id": "task_60",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_60",
+        "node_id": "node_5",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662494.817912
+    },
+    {
+      "task_id": "task_61",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_61",
+        "node_id": "node_2",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662495.290418
+    },
+    {
+      "task_id": "task_62",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_62",
+        "node_id": "node_5",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "traffic",
+          "weather"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662495.307265
+    },
+    {
+      "task_id": "task_63",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_63",
+        "node_id": "node_5",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "safety",
+          "parking"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662495.308981
+    },
+    {
+      "task_id": "task_64",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_64",
+        "node_id": "node_5",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "traffic",
+          "safety",
+          "weather"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662495.024551
+    },
+    {
+      "task_id": "task_65",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_65",
+        "node_id": "node_2",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "weather",
+          "parking",
+          "safety"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662495.0437791
+    },
+    {
+      "task_id": "task_66",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_66",
+        "node_id": "node_3",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662495.146233
+    },
+    {
+      "task_id": "task_67",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_67",
+        "node_id": "node_2",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662495.1603572
+    },
+    {
+      "task_id": "task_68",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_68",
+        "node_id": "node_3",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "weather"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662495.4677088
+    },
+    {
+      "task_id": "task_69",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_69",
+        "node_id": "node_5",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "safety",
+          "parking"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662495.666759
+    },
+    {
+      "task_id": "task_70",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_70",
+        "node_id": "node_3",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "safety",
+          "weather"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662495.610844
+    },
+    {
+      "task_id": "task_71",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_71",
+        "node_id": "node_3",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "weather",
+          "parking",
+          "safety"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662495.528715
+    },
+    {
+      "task_id": "task_72",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_72",
+        "node_id": "node_3",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662495.630485
+    },
+    {
+      "task_id": "task_73",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_73",
+        "node_id": "node_2",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662495.9841611
+    },
+    {
+      "task_id": "task_74",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_74",
+        "node_id": "node_3",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "weather"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662495.850037
+    },
+    {
+      "task_id": "task_75",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_75",
+        "node_id": "node_2",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "safety",
+          "parking"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662495.827019
+    },
+    {
+      "task_id": "task_76",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_76",
+        "node_id": "node_1",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "traffic",
+          "safety",
+          "weather"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662495.84212
+    },
+    {
+      "task_id": "task_77",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_77",
+        "node_id": "node_2",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "weather",
+          "parking",
+          "safety"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662495.7825322
+    },
+    {
+      "task_id": "task_78",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_78",
+        "node_id": "node_1",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662496.294382
+    },
+    {
+      "task_id": "task_79",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_79",
+        "node_id": "node_2",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662495.943402
+    },
+    {
+      "task_id": "task_80",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_80",
+        "node_id": "node_3",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "weather"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662495.963426
+    },
+    {
+      "task_id": "task_81",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_81",
+        "node_id": "node_2",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "safety",
+          "parking"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662495.9655218
+    },
+    {
+      "task_id": "task_82",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_82",
+        "node_id": "node_1",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "traffic",
+          "safety",
+          "weather"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662496.454303
+    },
+    {
+      "task_id": "task_83",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_83",
+        "node_id": "node_2",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "weather",
+          "parking",
+          "safety"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662496.4801202
+    },
+    {
+      "task_id": "task_84",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_84",
+        "node_id": "node_1",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662496.1769118
+    },
+    {
+      "task_id": "task_85",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_85",
+        "node_id": "node_2",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662496.500577
+    },
+    {
+      "task_id": "task_86",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_86",
+        "node_id": "node_1",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "traffic",
+          "weather"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662496.3895931
+    },
+    {
+      "task_id": "task_87",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_87",
+        "node_id": "node_4",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "safety",
+          "parking"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662496.821515
+    },
+    {
+      "task_id": "task_88",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_88",
+        "node_id": "node_3",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "safety",
+          "weather"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662496.91056
+    },
+    {
+      "task_id": "task_89",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_89",
+        "node_id": "node_2",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "weather",
+          "parking",
+          "safety"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662496.769993
+    },
+    {
+      "task_id": "task_90",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_90",
+        "node_id": "node_5",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662496.586724
+    },
+    {
+      "task_id": "task_91",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_91",
+        "node_id": "node_5",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662497.007156
+    },
+    {
+      "task_id": "task_92",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_92",
+        "node_id": "node_3",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "weather"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662496.908254
+    },
+    {
+      "task_id": "task_93",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_93",
+        "node_id": "node_4",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "safety",
+          "parking"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662497.2961102
+    },
+    {
+      "task_id": "task_94",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_94",
+        "node_id": "node_3",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "safety",
+          "weather"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662497.043061
+    },
+    {
+      "task_id": "task_95",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_95",
+        "node_id": "node_5",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "weather",
+          "parking",
+          "safety"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662497.214238
+    },
+    {
+      "task_id": "task_96",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_96",
+        "node_id": "node_5",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662497.216042
+    },
+    {
+      "task_id": "task_97",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_97",
+        "node_id": "node_5",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662497.31324
+    },
+    {
+      "task_id": "task_98",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_98",
+        "node_id": "node_5",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "traffic",
+          "weather"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662497.348487
+    },
+    {
+      "task_id": "task_99",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_99",
+        "node_id": "node_4",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "safety",
+          "parking"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662497.4409442
+    },
+    {
+      "task_id": "task_100",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_100",
+        "node_id": "node_1",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "traffic",
+          "safety",
+          "weather"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662497.527333
+    },
+    {
+      "task_id": "task_101",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_101",
+        "node_id": "node_1",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "weather",
+          "parking",
+          "safety"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662497.607629
+    },
+    {
+      "task_id": "task_102",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_102",
+        "node_id": "node_1",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662497.823854
+    },
+    {
+      "task_id": "task_103",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_103",
+        "node_id": "node_2",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662497.565581
+    },
+    {
+      "task_id": "task_104",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_104",
+        "node_id": "node_3",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "weather"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662497.7626219
+    },
+    {
+      "task_id": "task_105",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_105",
+        "node_id": "node_4",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "safety",
+          "parking"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662497.853686
+    },
+    {
+      "task_id": "task_106",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_106",
+        "node_id": "node_3",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "safety",
+          "weather"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662497.687243
+    },
+    {
+      "task_id": "task_107",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_107",
+        "node_id": "node_3",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "weather",
+          "parking",
+          "safety"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662497.7293
+    },
+    {
+      "task_id": "task_108",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_108",
+        "node_id": "node_1",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662497.8987288
+    },
+    {
+      "task_id": "task_109",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_109",
+        "node_id": "node_2",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662497.8461819
+    },
+    {
+      "task_id": "task_110",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_110",
+        "node_id": "node_3",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "weather"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662497.984511
+    },
+    {
+      "task_id": "task_111",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_111",
+        "node_id": "node_4",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "safety",
+          "parking"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662497.950708
+    },
+    {
+      "task_id": "task_112",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_112",
+        "node_id": "node_3",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "safety",
+          "weather"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662498.167694
+    },
+    {
+      "task_id": "task_113",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_113",
+        "node_id": "node_4",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "weather",
+          "parking",
+          "safety"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662498.3805
+    },
+    {
+      "task_id": "task_114",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_114",
+        "node_id": "node_3",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662498.019611
+    },
+    {
+      "task_id": "task_115",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_115",
+        "node_id": "node_2",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662498.4671738
+    },
+    {
+      "task_id": "task_116",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_116",
+        "node_id": "node_3",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "weather"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662498.106129
+    },
+    {
+      "task_id": "task_117",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_117",
+        "node_id": "node_4",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "safety",
+          "parking"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662498.546396
+    },
+    {
+      "task_id": "task_118",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_118",
+        "node_id": "node_2",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "traffic",
+          "safety",
+          "weather"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662498.2227662
+    },
+    {
+      "task_id": "task_119",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_119",
+        "node_id": "node_2",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "weather",
+          "parking",
+          "safety"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662498.2836852
+    },
+    {
+      "task_id": "task_120",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_120",
+        "node_id": "node_1",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662498.734464
+    },
+    {
+      "task_id": "task_121",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_121",
+        "node_id": "node_2",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662498.400037
+    },
+    {
+      "task_id": "task_122",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_122",
+        "node_id": "node_5",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "traffic",
+          "weather"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662498.4869509
+    },
+    {
+      "task_id": "task_123",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_123",
+        "node_id": "node_5",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "safety",
+          "parking"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662498.706391
+    },
+    {
+      "task_id": "task_124",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_124",
+        "node_id": "node_5",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "traffic",
+          "safety",
+          "weather"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662498.9738328
+    },
+    {
+      "task_id": "task_125",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_125",
+        "node_id": "node_5",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "weather",
+          "parking",
+          "safety"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662498.6935208
+    },
+    {
+      "task_id": "task_126",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_126",
+        "node_id": "node_1",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662499.057869
+    },
+    {
+      "task_id": "task_127",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_127",
+        "node_id": "node_5",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662499.000329
+    },
+    {
+      "task_id": "task_128",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_128",
+        "node_id": "node_3",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "weather"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662499.027908
+    },
+    {
+      "task_id": "task_129",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_129",
+        "node_id": "node_4",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "safety",
+          "parking"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662499.060043
+    },
+    {
+      "task_id": "task_130",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_130",
+        "node_id": "node_3",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "safety",
+          "weather"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662499.295451
+    },
+    {
+      "task_id": "task_131",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_131",
+        "node_id": "node_2",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "weather",
+          "parking",
+          "safety"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662499.116884
+    },
+    {
+      "task_id": "task_132",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_132",
+        "node_id": "node_1",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662499.23956
+    },
+    {
+      "task_id": "task_133",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_133",
+        "node_id": "node_2",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662499.174477
+    },
+    {
+      "task_id": "task_134",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_134",
+        "node_id": "node_3",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "weather"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662499.1812701
+    },
+    {
+      "task_id": "task_135",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_135",
+        "node_id": "node_2",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "safety",
+          "parking"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662499.633491
+    },
+    {
+      "task_id": "task_136",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_136",
+        "node_id": "node_3",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "safety",
+          "weather"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662499.6951628
+    },
+    {
+      "task_id": "task_137",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_137",
+        "node_id": "node_2",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "weather",
+          "parking",
+          "safety"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662499.697181
+    },
+    {
+      "task_id": "task_138",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_138",
+        "node_id": "node_3",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662499.361438
+    },
+    {
+      "task_id": "task_139",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_139",
+        "node_id": "node_2",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662499.812074
+    },
+    {
+      "task_id": "task_140",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_140",
+        "node_id": "node_2",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "traffic",
+          "weather"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662499.6783931
+    },
+    {
+      "task_id": "task_141",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_141",
+        "node_id": "node_4",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "safety",
+          "parking"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662500.159909
+    },
+    {
+      "task_id": "task_142",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_142",
+        "node_id": "node_3",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "safety",
+          "weather"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662499.9995232
+    },
+    {
+      "task_id": "task_143",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_143",
+        "node_id": "node_4",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "weather",
+          "parking",
+          "safety"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662499.920832
+    },
+    {
+      "task_id": "task_144",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_144",
+        "node_id": "node_1",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662500.208226
+    },
+    {
+      "task_id": "task_145",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_145",
+        "node_id": "node_4",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662500.338517
+    },
+    {
+      "task_id": "task_146",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_146",
+        "node_id": "node_3",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "weather"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662500.4426198
+    },
+    {
+      "task_id": "task_147",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_147",
+        "node_id": "node_4",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "safety",
+          "parking"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662500.125731
+    },
+    {
+      "task_id": "task_148",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_148",
+        "node_id": "node_1",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "traffic",
+          "safety",
+          "weather"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662500.637337
+    },
+    {
+      "task_id": "task_149",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_149",
+        "node_id": "node_5",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "weather",
+          "parking",
+          "safety"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662500.3666282
+    },
+    {
+      "task_id": "task_150",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_150",
+        "node_id": "node_5",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662500.314553
+    },
+    {
+      "task_id": "task_151",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_151",
+        "node_id": "node_5",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662500.421472
+    },
+    {
+      "task_id": "task_152",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_152",
+        "node_id": "node_5",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "traffic",
+          "weather"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662500.544279
+    },
+    {
+      "task_id": "task_153",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_153",
+        "node_id": "node_5",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "safety",
+          "parking"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662500.6723719
+    },
+    {
+      "task_id": "task_154",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_154",
+        "node_id": "node_5",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "traffic",
+          "safety",
+          "weather"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662500.727695
+    },
+    {
+      "task_id": "task_155",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_155",
+        "node_id": "node_5",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "weather",
+          "parking",
+          "safety"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662500.9491389
+    },
+    {
+      "task_id": "task_156",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_156",
+        "node_id": "node_1",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662500.855894
+    },
+    {
+      "task_id": "task_157",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_157",
+        "node_id": "node_5",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662500.843992
+    },
+    {
+      "task_id": "task_158",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_158",
+        "node_id": "node_3",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "weather"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662500.994375
+    },
+    {
+      "task_id": "task_159",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_159",
+        "node_id": "node_4",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "safety",
+          "parking"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662501.053378
+    },
+    {
+      "task_id": "task_160",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_160",
+        "node_id": "node_1",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "traffic",
+          "safety",
+          "weather"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662500.954991
+    },
+    {
+      "task_id": "task_161",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_161",
+        "node_id": "node_4",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "weather",
+          "parking",
+          "safety"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662501.082609
+    },
+    {
+      "task_id": "task_162",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_162",
+        "node_id": "node_1",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662501.260726
+    },
+    {
+      "task_id": "task_163",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_163",
+        "node_id": "node_2",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662501.271056
+    },
+    {
+      "task_id": "task_164",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_164",
+        "node_id": "node_3",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "weather"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662501.2160609
+    },
+    {
+      "task_id": "task_165",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_165",
+        "node_id": "node_4",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "safety",
+          "parking"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662501.379911
+    },
+    {
+      "task_id": "task_166",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_166",
+        "node_id": "node_3",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "safety",
+          "weather"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662501.3047
+    },
+    {
+      "task_id": "task_167",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_167",
+        "node_id": "node_2",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "weather",
+          "parking",
+          "safety"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662501.732563
+    },
+    {
+      "task_id": "task_168",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_168",
+        "node_id": "node_1",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662501.372176
+    },
+    {
+      "task_id": "task_169",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_169",
+        "node_id": "node_2",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662501.38796
+    },
+    {
+      "task_id": "task_170",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_170",
+        "node_id": "node_3",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "weather"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662501.826571
+    },
+    {
+      "task_id": "task_171",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_171",
+        "node_id": "node_4",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "safety",
+          "parking"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662501.898116
+    },
+    {
+      "task_id": "task_172",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_172",
+        "node_id": "node_2",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "traffic",
+          "safety",
+          "weather"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662501.896682
+    },
+    {
+      "task_id": "task_173",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_173",
+        "node_id": "node_2",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "weather",
+          "parking",
+          "safety"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662501.704086
+    },
+    {
+      "task_id": "task_174",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_174",
+        "node_id": "node_1",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662502.015511
+    },
+    {
+      "task_id": "task_175",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_175",
+        "node_id": "node_5",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662501.939254
+    },
+    {
+      "task_id": "task_176",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_176",
+        "node_id": "node_5",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "traffic",
+          "weather"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662501.933187
+    },
+    {
+      "task_id": "task_177",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_177",
+        "node_id": "node_4",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "safety",
+          "parking"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662502.1235268
+    },
+    {
+      "task_id": "task_178",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_178",
+        "node_id": "node_1",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "traffic",
+          "safety",
+          "weather"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662502.108842
+    },
+    {
+      "task_id": "task_179",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_179",
+        "node_id": "node_5",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "weather",
+          "parking",
+          "safety"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662502.238688
+    },
+    {
+      "task_id": "task_180",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_180",
+        "node_id": "node_1",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662502.051305
+    },
+    {
+      "task_id": "task_181",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_181",
+        "node_id": "node_5",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662502.321461
+    },
+    {
+      "task_id": "task_182",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_182",
+        "node_id": "node_3",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "weather"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662502.572858
+    },
+    {
+      "task_id": "task_183",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_183",
+        "node_id": "node_4",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "safety",
+          "parking"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662502.235352
+    },
+    {
+      "task_id": "task_184",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_184",
+        "node_id": "node_5",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "traffic",
+          "safety",
+          "weather"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662502.3291001
+    },
+    {
+      "task_id": "task_185",
+      "node_id": "node_5",
+      "result": {
+        "task_id": "task_185",
+        "node_id": "node_5",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.005,
+        "capabilities_used": [
+          "weather",
+          "parking",
+          "safety"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.005,
+      "success": true,
+      "timestamp": 1757662502.44189
+    },
+    {
+      "task_id": "task_186",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_186",
+        "node_id": "node_1",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662502.550198
+    },
+    {
+      "task_id": "task_187",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_187",
+        "node_id": "node_3",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662502.643405
+    },
+    {
+      "task_id": "task_188",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_188",
+        "node_id": "node_3",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "weather"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662502.550227
+    },
+    {
+      "task_id": "task_189",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_189",
+        "node_id": "node_4",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "safety",
+          "parking"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662502.6683898
+    },
+    {
+      "task_id": "task_190",
+      "node_id": "node_3",
+      "result": {
+        "task_id": "task_190",
+        "node_id": "node_3",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.02,
+        "capabilities_used": [
+          "traffic",
+          "safety",
+          "weather"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.02,
+      "success": true,
+      "timestamp": 1757662502.7710268
+    },
+    {
+      "task_id": "task_191",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_191",
+        "node_id": "node_4",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "weather",
+          "parking",
+          "safety"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662503.07668
+    },
+    {
+      "task_id": "task_192",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_192",
+        "node_id": "node_1",
+        "complexity": "medium",
+        "execution_time": 0.2,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.2,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662502.784298
+    },
+    {
+      "task_id": "task_193",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_193",
+        "node_id": "node_2",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662502.9602728
+    },
+    {
+      "task_id": "task_194",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_194",
+        "node_id": "node_1",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "traffic",
+          "weather"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662503.180157
+    },
+    {
+      "task_id": "task_195",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_195",
+        "node_id": "node_4",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "safety",
+          "parking"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662502.8977542
+    },
+    {
+      "task_id": "task_196",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_196",
+        "node_id": "node_1",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "traffic",
+          "safety",
+          "weather"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662503.095521
+    },
+    {
+      "task_id": "task_197",
+      "node_id": "node_4",
+      "result": {
+        "task_id": "task_197",
+        "node_id": "node_4",
+        "complexity": "simple",
+        "execution_time": 0.1,
+        "network_latency": 0.025,
+        "capabilities_used": [
+          "weather",
+          "parking",
+          "safety"
+        ]
+      },
+      "execution_time": 0.1,
+      "network_latency": 0.025,
+      "success": true,
+      "timestamp": 1757662503.0247612
+    },
+    {
+      "task_id": "task_198",
+      "node_id": "node_1",
+      "result": {
+        "task_id": "task_198",
+        "node_id": "node_1",
+        "complexity": "very_complex",
+        "execution_time": 0.5,
+        "network_latency": 0.01,
+        "capabilities_used": [
+          "traffic",
+          "safety"
+        ]
+      },
+      "execution_time": 0.5,
+      "network_latency": 0.01,
+      "success": true,
+      "timestamp": 1757662503.47177
+    },
+    {
+      "task_id": "task_199",
+      "node_id": "node_2",
+      "result": {
+        "task_id": "task_199",
+        "node_id": "node_2",
+        "complexity": "complex",
+        "execution_time": 0.3,
+        "network_latency": 0.015,
+        "capabilities_used": [
+          "weather",
+          "parking"
+        ]
+      },
+      "execution_time": 0.3,
+      "network_latency": 0.015,
+      "success": true,
+      "timestamp": 1757662503.341415
+    }
+  ],
+  "performance": {
+    "metrics": {
+      "total_tasks": 200,
+      "completed_tasks": 200,
+      "failed_tasks": 0,
+      "average_execution_time": 0.29100000000000004,
+      "average_network_latency": 0.015,
+      "cache_hit_rate": 0.0,
+      "load_balance_variance": 0.07840000000000075
+    },
+    "node_status": [
+      {
+        "node_id": "node_1",
+        "current_load": 12.200000000000001,
+        "completed_tasks": 37,
+        "average_performance": 0.3297297297297297,
+        "capabilities": [
+          "traffic",
+          "safety"
+        ],
+        "network_latency_ms": 10.0,
+        "bandwidth_mbps": 1000.0
+      },
+      {
+        "node_id": "node_2",
+        "current_load": 11.5,
+        "completed_tasks": 41,
+        "average_performance": 0.2804878048780488,
+        "capabilities": [
+          "weather",
+          "parking"
+        ],
+        "network_latency_ms": 15.0,
+        "bandwidth_mbps": 800.0
+      },
+      {
+        "node_id": "node_3",
+        "current_load": 11.499999999999996,
+        "completed_tasks": 43,
+        "average_performance": 0.26744186046511625,
+        "capabilities": [
+          "traffic",
+          "weather"
+        ],
+        "network_latency_ms": 20.0,
+        "bandwidth_mbps": 600.0
+      },
+      {
+        "node_id": "node_4",
+        "current_load": 11.499999999999998,
+        "completed_tasks": 38,
+        "average_performance": 0.30263157894736836,
+        "capabilities": [
+          "safety",
+          "parking"
+        ],
+        "network_latency_ms": 25.0,
+        "bandwidth_mbps": 400.0
+      },
+      {
+        "node_id": "node_5",
+        "current_load": 11.499999999999996,
+        "completed_tasks": 41,
+        "average_performance": 0.2804878048780488,
+        "capabilities": [
+          "traffic",
+          "safety",
+          "weather",
+          "parking"
+        ],
+        "network_latency_ms": 5.0,
+        "bandwidth_mbps": 2000.0
+      }
+    ],
+    "cache_status": {
+      "total_entries": 200,
+      "hit_rate": 0.0
+    },
+    "learning_status": {
+      "total_knowledge_entries": 39,
+      "learning_events": 8
+    }
+  }
+}

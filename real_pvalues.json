@@ -1,0 +1,12 @@
+{
+  "pvalues": {
+    "LangChain": 0.003421336075770564,
+    "CrewAI": 0.0019371754907904176,
+    "AutoGen": 0.0006442115068615909
+  },
+  "formatted_pvalues": {
+    "LangChain": "0.003",
+    "CrewAI": "0.002",
+    "AutoGen": "<0.001"
+  }
+}

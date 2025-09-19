@@ -1,0 +1,54 @@
+# Core dependencies
+websocket-client>=1.8.0
+requests>=2.31.0
+pandas>=2.1.0
+numpy>=1.24.0
+matplotlib>=3.8.0
+psutil>=5.9.0
+
+# Web framework
+fastapi
+uvicorn
+python-socketio==5.11.0
+python-engineio==4.9.0
+websockets
+
+# Multi-agent frameworks (for comparison)
+langchain>=0.1.0
+langchain-openai>=0.1.0
+langchain-community>=0.1.0
+openai>=1.0.0
+crewai>=0.1.0
+autogen>=0.2.0
+
+# Testing dependencies
+pytest>=7.0.0
+pytest-cov>=4.0.0
+pytest-asyncio>=0.21.0
+pytest-mock>=3.10.0
+freezegun==1.5.1
+
+# Code quality tools
+black>=23.0.0
+isort>=5.12.0
+flake8>=6.0.0
+mypy>=1.0.0
+
+# Security scanning
+safety>=2.3.0
+bandit>=1.7.0
+
+# Database support
+sqlalchemy>=2.0.0
+alembic>=1.11.0
+
+# Cache support
+redis>=4.5.0
+
+# Monitoring
+prometheus-client>=0.16.0
+
+# Additional utilities
+seaborn>=0.12.0
+scipy>=1.10.0
+scikit-learn>=1.3.0

@@ -1,0 +1,1066 @@
+{
+  "benchmark_results": [
+    {
+      "framework": "Our DSL",
+      "scenario": "data_processing",
+      "agent_count": 1,
+      "execution_time": 0.1102602481842041,
+      "throughput": 9.069451742294012,
+      "success_rate": 100.0,
+      "successful_tasks": 1,
+      "total_tasks": 1,
+      "avg_latency": 110.2602481842041,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "LangChain",
+      "scenario": "data_processing",
+      "agent_count": 1,
+      "execution_time": 0.22101783752441406,
+      "throughput": 4.524521691103498,
+      "success_rate": 100.0,
+      "successful_tasks": 1,
+      "total_tasks": 1,
+      "avg_latency": 221.01783752441406,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "CrewAI",
+      "scenario": "data_processing",
+      "agent_count": 1,
+      "execution_time": 0.17232584953308105,
+      "throughput": 5.802959931487423,
+      "success_rate": 100.0,
+      "successful_tasks": 1,
+      "total_tasks": 1,
+      "avg_latency": 172.32584953308105,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "AutoGen",
+      "scenario": "data_processing",
+      "agent_count": 1,
+      "execution_time": 0.19896173477172852,
+      "throughput": 5.026092083220492,
+      "success_rate": 100.0,
+      "successful_tasks": 1,
+      "total_tasks": 1,
+      "avg_latency": 198.96173477172852,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "Our DSL",
+      "scenario": "data_processing",
+      "agent_count": 3,
+      "execution_time": 0.33536219596862793,
+      "throughput": 8.94555211071149,
+      "success_rate": 100.0,
+      "successful_tasks": 3,
+      "total_tasks": 3,
+      "avg_latency": 111.7873986562093,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "LangChain",
+      "scenario": "data_processing",
+      "agent_count": 3,
+      "execution_time": 0.660938024520874,
+      "throughput": 4.539003490039409,
+      "success_rate": 100.0,
+      "successful_tasks": 3,
+      "total_tasks": 3,
+      "avg_latency": 220.31267484029135,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "CrewAI",
+      "scenario": "data_processing",
+      "agent_count": 3,
+      "execution_time": 0.5114181041717529,
+      "throughput": 5.866041846247371,
+      "success_rate": 100.0,
+      "successful_tasks": 3,
+      "total_tasks": 3,
+      "avg_latency": 170.47270139058432,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "AutoGen",
+      "scenario": "data_processing",
+      "agent_count": 3,
+      "execution_time": 0.6060919761657715,
+      "throughput": 4.949743797927253,
+      "success_rate": 100.0,
+      "successful_tasks": 3,
+      "total_tasks": 3,
+      "avg_latency": 202.03065872192383,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "Our DSL",
+      "scenario": "data_processing",
+      "agent_count": 5,
+      "execution_time": 0.5598137378692627,
+      "throughput": 8.931542157273185,
+      "success_rate": 100.0,
+      "successful_tasks": 5,
+      "total_tasks": 5,
+      "avg_latency": 111.96274757385254,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "LangChain",
+      "scenario": "data_processing",
+      "agent_count": 5,
+      "execution_time": 1.084557056427002,
+      "throughput": 4.610177003017392,
+      "success_rate": 100.0,
+      "successful_tasks": 5,
+      "total_tasks": 5,
+      "avg_latency": 216.9114112854004,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "CrewAI",
+      "scenario": "data_processing",
+      "agent_count": 5,
+      "execution_time": 0.8403220176696777,
+      "throughput": 5.950099955568998,
+      "success_rate": 100.0,
+      "successful_tasks": 5,
+      "total_tasks": 5,
+      "avg_latency": 168.06440353393555,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "AutoGen",
+      "scenario": "data_processing",
+      "agent_count": 5,
+      "execution_time": 1.0076451301574707,
+      "throughput": 4.962064372026112,
+      "success_rate": 100.0,
+      "successful_tasks": 5,
+      "total_tasks": 5,
+      "avg_latency": 201.52902603149414,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "Our DSL",
+      "scenario": "data_processing",
+      "agent_count": 10,
+      "execution_time": 1.1141810417175293,
+      "throughput": 8.975202077199974,
+      "success_rate": 100.0,
+      "successful_tasks": 10,
+      "total_tasks": 10,
+      "avg_latency": 111.41810417175293,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "LangChain",
+      "scenario": "data_processing",
+      "agent_count": 10,
+      "execution_time": 2.1978518962860107,
+      "throughput": 4.5498971140404265,
+      "success_rate": 100.0,
+      "successful_tasks": 10,
+      "total_tasks": 10,
+      "avg_latency": 219.78518962860107,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "CrewAI",
+      "scenario": "data_processing",
+      "agent_count": 10,
+      "execution_time": 1.695626974105835,
+      "throughput": 5.897523543038326,
+      "success_rate": 100.0,
+      "successful_tasks": 10,
+      "total_tasks": 10,
+      "avg_latency": 169.5626974105835,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "AutoGen",
+      "scenario": "data_processing",
+      "agent_count": 10,
+      "execution_time": 2.0080530643463135,
+      "throughput": 4.979948078839901,
+      "success_rate": 100.0,
+      "successful_tasks": 10,
+      "total_tasks": 10,
+      "avg_latency": 200.80530643463135,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "Our DSL",
+      "scenario": "memory_intensive",
+      "agent_count": 1,
+      "execution_time": 0.11248111724853516,
+      "throughput": 8.890381109839332,
+      "success_rate": 100.0,
+      "successful_tasks": 1,
+      "total_tasks": 1,
+      "avg_latency": 112.48111724853516,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "LangChain",
+      "scenario": "memory_intensive",
+      "agent_count": 1,
+      "execution_time": 0.22376108169555664,
+      "throughput": 4.469052403673009,
+      "success_rate": 100.0,
+      "successful_tasks": 1,
+      "total_tasks": 1,
+      "avg_latency": 223.76108169555664,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "CrewAI",
+      "scenario": "memory_intensive",
+      "agent_count": 1,
+      "execution_time": 0.17272114753723145,
+      "throughput": 5.789678995644942,
+      "success_rate": 100.0,
+      "successful_tasks": 1,
+      "total_tasks": 1,
+      "avg_latency": 172.72114753723145,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "AutoGen",
+      "scenario": "memory_intensive",
+      "agent_count": 1,
+      "execution_time": 0.20281481742858887,
+      "throughput": 4.930606218414491,
+      "success_rate": 100.0,
+      "successful_tasks": 1,
+      "total_tasks": 1,
+      "avg_latency": 202.81481742858887,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "Our DSL",
+      "scenario": "memory_intensive",
+      "agent_count": 3,
+      "execution_time": 0.3375837802886963,
+      "throughput": 8.886682877460663,
+      "success_rate": 100.0,
+      "successful_tasks": 3,
+      "total_tasks": 3,
+      "avg_latency": 112.52792676289876,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "LangChain",
+      "scenario": "memory_intensive",
+      "agent_count": 3,
+      "execution_time": 0.6630420684814453,
+      "throughput": 4.524599784250269,
+      "success_rate": 100.0,
+      "successful_tasks": 3,
+      "total_tasks": 3,
+      "avg_latency": 221.01402282714844,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "CrewAI",
+      "scenario": "memory_intensive",
+      "agent_count": 3,
+      "execution_time": 0.518204927444458,
+      "throughput": 5.789215503593498,
+      "success_rate": 100.0,
+      "successful_tasks": 3,
+      "total_tasks": 3,
+      "avg_latency": 172.73497581481934,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "AutoGen",
+      "scenario": "memory_intensive",
+      "agent_count": 3,
+      "execution_time": 0.604111909866333,
+      "throughput": 4.9659673166579115,
+      "success_rate": 100.0,
+      "successful_tasks": 3,
+      "total_tasks": 3,
+      "avg_latency": 201.370636622111,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "Our DSL",
+      "scenario": "memory_intensive",
+      "agent_count": 5,
+      "execution_time": 0.5583827495574951,
+      "throughput": 8.954431353694897,
+      "success_rate": 100.0,
+      "successful_tasks": 5,
+      "total_tasks": 5,
+      "avg_latency": 111.67654991149902,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "LangChain",
+      "scenario": "memory_intensive",
+      "agent_count": 5,
+      "execution_time": 1.1014227867126465,
+      "throughput": 4.539582856210206,
+      "success_rate": 100.0,
+      "successful_tasks": 5,
+      "total_tasks": 5,
+      "avg_latency": 220.2845573425293,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "CrewAI",
+      "scenario": "memory_intensive",
+      "agent_count": 5,
+      "execution_time": 0.8608381748199463,
+      "throughput": 5.808292599298126,
+      "success_rate": 100.0,
+      "successful_tasks": 5,
+      "total_tasks": 5,
+      "avg_latency": 172.16763496398926,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "AutoGen",
+      "scenario": "memory_intensive",
+      "agent_count": 5,
+      "execution_time": 1.0070338249206543,
+      "throughput": 4.965076521033399,
+      "success_rate": 100.0,
+      "successful_tasks": 5,
+      "total_tasks": 5,
+      "avg_latency": 201.40676498413086,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "Our DSL",
+      "scenario": "memory_intensive",
+      "agent_count": 10,
+      "execution_time": 1.1216988563537598,
+      "throughput": 8.915048761399659,
+      "success_rate": 100.0,
+      "successful_tasks": 10,
+      "total_tasks": 10,
+      "avg_latency": 112.16988563537598,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "LangChain",
+      "scenario": "memory_intensive",
+      "agent_count": 10,
+      "execution_time": 2.2083041667938232,
+      "throughput": 4.528361695082398,
+      "success_rate": 100.0,
+      "successful_tasks": 10,
+      "total_tasks": 10,
+      "avg_latency": 220.83041667938232,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "CrewAI",
+      "scenario": "memory_intensive",
+      "agent_count": 10,
+      "execution_time": 1.7037937641143799,
+      "throughput": 5.869254959503817,
+      "success_rate": 100.0,
+      "successful_tasks": 10,
+      "total_tasks": 10,
+      "avg_latency": 170.379376411438,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "AutoGen",
+      "scenario": "memory_intensive",
+      "agent_count": 10,
+      "execution_time": 2.0138778686523438,
+      "throughput": 4.965544413421578,
+      "success_rate": 100.0,
+      "successful_tasks": 10,
+      "total_tasks": 10,
+      "avg_latency": 201.38778686523438,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "Our DSL",
+      "scenario": "concurrent_operations",
+      "agent_count": 1,
+      "execution_time": 0.11229681968688965,
+      "throughput": 8.904971688318858,
+      "success_rate": 100.0,
+      "successful_tasks": 1,
+      "total_tasks": 1,
+      "avg_latency": 112.29681968688965,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "LangChain",
+      "scenario": "concurrent_operations",
+      "agent_count": 1,
+      "execution_time": 0.22427010536193848,
+      "throughput": 4.458909039107772,
+      "success_rate": 100.0,
+      "successful_tasks": 1,
+      "total_tasks": 1,
+      "avg_latency": 224.27010536193848,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "CrewAI",
+      "scenario": "concurrent_operations",
+      "agent_count": 1,
+      "execution_time": 0.17432093620300293,
+      "throughput": 5.7365456025056245,
+      "success_rate": 100.0,
+      "successful_tasks": 1,
+      "total_tasks": 1,
+      "avg_latency": 174.32093620300293,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "AutoGen",
+      "scenario": "concurrent_operations",
+      "agent_count": 1,
+      "execution_time": 0.20389509201049805,
+      "throughput": 4.904482938454019,
+      "success_rate": 100.0,
+      "successful_tasks": 1,
+      "total_tasks": 1,
+      "avg_latency": 203.89509201049805,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "Our DSL",
+      "scenario": "concurrent_operations",
+      "agent_count": 3,
+      "execution_time": 0.33821702003479004,
+      "throughput": 8.87004444569765,
+      "success_rate": 100.0,
+      "successful_tasks": 3,
+      "total_tasks": 3,
+      "avg_latency": 112.73900667826335,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "LangChain",
+      "scenario": "concurrent_operations",
+      "agent_count": 3,
+      "execution_time": 0.6666970252990723,
+      "throughput": 4.499795088562509,
+      "success_rate": 100.0,
+      "successful_tasks": 3,
+      "total_tasks": 3,
+      "avg_latency": 222.23234176635742,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "CrewAI",
+      "scenario": "concurrent_operations",
+      "agent_count": 3,
+      "execution_time": 0.5137839317321777,
+      "throughput": 5.839030406976258,
+      "success_rate": 100.0,
+      "successful_tasks": 3,
+      "total_tasks": 3,
+      "avg_latency": 171.26131057739258,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "AutoGen",
+      "scenario": "concurrent_operations",
+      "agent_count": 3,
+      "execution_time": 0.6131618022918701,
+      "throughput": 4.8926726824577615,
+      "success_rate": 100.0,
+      "successful_tasks": 3,
+      "total_tasks": 3,
+      "avg_latency": 204.38726743062338,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "Our DSL",
+      "scenario": "concurrent_operations",
+      "agent_count": 5,
+      "execution_time": 0.5652596950531006,
+      "throughput": 8.84549180448873,
+      "success_rate": 100.0,
+      "successful_tasks": 5,
+      "total_tasks": 5,
+      "avg_latency": 113.05193901062012,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "LangChain",
+      "scenario": "concurrent_operations",
+      "agent_count": 5,
+      "execution_time": 1.1022000312805176,
+      "throughput": 4.536381653147917,
+      "success_rate": 100.0,
+      "successful_tasks": 5,
+      "total_tasks": 5,
+      "avg_latency": 220.44000625610352,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "CrewAI",
+      "scenario": "concurrent_operations",
+      "agent_count": 5,
+      "execution_time": 0.8611161708831787,
+      "throughput": 5.806417495181742,
+      "success_rate": 100.0,
+      "successful_tasks": 5,
+      "total_tasks": 5,
+      "avg_latency": 172.22323417663574,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "AutoGen",
+      "scenario": "concurrent_operations",
+      "agent_count": 5,
+      "execution_time": 1.009207010269165,
+      "throughput": 4.954384927098805,
+      "success_rate": 100.0,
+      "successful_tasks": 5,
+      "total_tasks": 5,
+      "avg_latency": 201.841402053833,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "Our DSL",
+      "scenario": "concurrent_operations",
+      "agent_count": 10,
+      "execution_time": 1.132688045501709,
+      "throughput": 8.828556141042906,
+      "success_rate": 100.0,
+      "successful_tasks": 10,
+      "total_tasks": 10,
+      "avg_latency": 113.2688045501709,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "LangChain",
+      "scenario": "concurrent_operations",
+      "agent_count": 10,
+      "execution_time": 2.2167530059814453,
+      "throughput": 4.511102487745404,
+      "success_rate": 100.0,
+      "successful_tasks": 10,
+      "total_tasks": 10,
+      "avg_latency": 221.67530059814453,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "CrewAI",
+      "scenario": "concurrent_operations",
+      "agent_count": 10,
+      "execution_time": 1.7053377628326416,
+      "throughput": 5.8639409845645805,
+      "success_rate": 100.0,
+      "successful_tasks": 10,
+      "total_tasks": 10,
+      "avg_latency": 170.53377628326416,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    },
+    {
+      "framework": "AutoGen",
+      "scenario": "concurrent_operations",
+      "agent_count": 10,
+      "execution_time": 2.011296033859253,
+      "throughput": 4.971918520026168,
+      "success_rate": 100.0,
+      "successful_tasks": 10,
+      "total_tasks": 10,
+      "avg_latency": 201.1296033859253,
+      "status": "success",
+      "memory_usage": 0,
+      "api_type": "improved_test"
+    }
+  ],
+  "statistics": {
+    "Our DSL": {
+      "avg_throughput": 8.918113022451779,
+      "avg_memory": 0.0,
+      "avg_latency": 112.13671233918932,
+      "avg_success_rate": 100.0,
+      "total_tests": 12
+    },
+    "LangChain": {
+      "avg_throughput": 4.524282025498351,
+      "avg_memory": 0.0,
+      "avg_latency": 221.04457881715564,
+      "avg_success_rate": 100.0,
+      "total_tests": 12
+    },
+    "CrewAI": {
+      "avg_throughput": 5.834916818634226,
+      "avg_memory": 0.0,
+      "avg_latency": 171.39733698632983,
+      "avg_success_rate": 100.0,
+      "total_tests": 12
+    },
+    "AutoGen": {
+      "avg_throughput": 4.955708489131491,
+      "avg_memory": 0.0,
+      "avg_latency": 201.79667472839355,
+      "avg_success_rate": 100.0,
+      "total_tests": 12
+    }
+  },
+  "memory_tracker": {
+    "our_dsl_data_processing_1": {
+      "rss_delta": 1.171875,
+      "vms_delta": -15.0625,
+      "tracemalloc_peak": 1.0503196716308594,
+      "monitored_peak": 71.09375,
+      "samples_count": 10
+    },
+    "LangChain_data_processing_1": {
+      "rss_delta": 2.125,
+      "vms_delta": -15.0625,
+      "tracemalloc_peak": 2.9544105529785156,
+      "monitored_peak": 73.25,
+      "samples_count": 18
+    },
+    "CrewAI_data_processing_1": {
+      "rss_delta": 0.1875,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 2.9544105529785156,
+      "monitored_peak": 73.46875,
+      "samples_count": 14
+    },
+    "AutoGen_data_processing_1": {
+      "rss_delta": 1.8125,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 2.954273223876953,
+      "monitored_peak": 75.3125,
+      "samples_count": 16
+    },
+    "our_dsl_data_processing_3": {
+      "rss_delta": 1.296875,
+      "vms_delta": 112.9375,
+      "tracemalloc_peak": 3.031352996826172,
+      "monitored_peak": 76.640625,
+      "samples_count": 28
+    },
+    "LangChain_data_processing_3": {
+      "rss_delta": 4.375,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 8.749736785888672,
+      "monitored_peak": 81.046875,
+      "samples_count": 53
+    },
+    "CrewAI_data_processing_3": {
+      "rss_delta": 7.734375,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 8.749507904052734,
+      "monitored_peak": 88.8125,
+      "samples_count": 41
+    },
+    "AutoGen_data_processing_3": {
+      "rss_delta": 0.9375,
+      "vms_delta": 112.9375,
+      "tracemalloc_peak": 8.749752044677734,
+      "monitored_peak": 89.78125,
+      "samples_count": 49
+    },
+    "our_dsl_data_processing_5": {
+      "rss_delta": 0.296875,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 5.012203216552734,
+      "monitored_peak": 90.109375,
+      "samples_count": 45
+    },
+    "LangChain_data_processing_5": {
+      "rss_delta": 4.140625,
+      "vms_delta": -15.0625,
+      "tracemalloc_peak": 14.545185089111328,
+      "monitored_peak": 94.28125,
+      "samples_count": 87
+    },
+    "CrewAI_data_processing_5": {
+      "rss_delta": 0.828125,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 14.544673919677734,
+      "monitored_peak": 95.140625,
+      "samples_count": 67
+    },
+    "AutoGen_data_processing_5": {
+      "rss_delta": 4.390625,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 14.545063018798828,
+      "monitored_peak": 99.5625,
+      "samples_count": 81
+    },
+    "our_dsl_data_processing_10": {
+      "rss_delta": 0.796875,
+      "vms_delta": -15.0625,
+      "tracemalloc_peak": 9.964427947998047,
+      "monitored_peak": 100.390625,
+      "samples_count": 90
+    },
+    "LangChain_data_processing_10": {
+      "rss_delta": 10.75,
+      "vms_delta": -15.0625,
+      "tracemalloc_peak": 29.03390884399414,
+      "monitored_peak": 111.1875,
+      "samples_count": 177
+    },
+    "CrewAI_data_processing_10": {
+      "rss_delta": 2.53125,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 29.033784866333008,
+      "monitored_peak": 113.75,
+      "samples_count": 137
+    },
+    "AutoGen_data_processing_10": {
+      "rss_delta": 6.703125,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 29.03329849243164,
+      "monitored_peak": 120.484375,
+      "samples_count": 160
+    },
+    "our_dsl_memory_intensive_1": {
+      "rss_delta": -0.03125,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 1.0503044128417969,
+      "monitored_peak": 120.484375,
+      "samples_count": 10
+    },
+    "LangChain_memory_intensive_1": {
+      "rss_delta": -0.03125,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 2.954364776611328,
+      "monitored_peak": 120.484375,
+      "samples_count": 19
+    },
+    "CrewAI_memory_intensive_1": {
+      "rss_delta": -0.03125,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 2.954364776611328,
+      "monitored_peak": 120.484375,
+      "samples_count": 14
+    },
+    "AutoGen_memory_intensive_1": {
+      "rss_delta": -0.03125,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 2.9544105529785156,
+      "monitored_peak": 120.484375,
+      "samples_count": 17
+    },
+    "our_dsl_memory_intensive_3": {
+      "rss_delta": -0.03125,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 3.031543731689453,
+      "monitored_peak": 120.484375,
+      "samples_count": 28
+    },
+    "LangChain_memory_intensive_3": {
+      "rss_delta": -0.03125,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 8.749774932861328,
+      "monitored_peak": 120.484375,
+      "samples_count": 54
+    },
+    "CrewAI_memory_intensive_3": {
+      "rss_delta": 1.046875,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 8.749576568603516,
+      "monitored_peak": 121.5625,
+      "samples_count": 42
+    },
+    "AutoGen_memory_intensive_3": {
+      "rss_delta": -0.03125,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 8.749752044677734,
+      "monitored_peak": 121.5625,
+      "samples_count": 49
+    },
+    "our_dsl_memory_intensive_5": {
+      "rss_delta": 0.171875,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 5.012157440185547,
+      "monitored_peak": 121.765625,
+      "samples_count": 45
+    },
+    "LangChain_memory_intensive_5": {
+      "rss_delta": -0.03125,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 14.54513168334961,
+      "monitored_peak": 121.765625,
+      "samples_count": 89
+    },
+    "CrewAI_memory_intensive_5": {
+      "rss_delta": -0.03125,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 14.544673919677734,
+      "monitored_peak": 121.765625,
+      "samples_count": 69
+    },
+    "AutoGen_memory_intensive_5": {
+      "rss_delta": -0.03125,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 14.545108795166016,
+      "monitored_peak": 121.765625,
+      "samples_count": 82
+    },
+    "our_dsl_memory_intensive_10": {
+      "rss_delta": 0.203125,
+      "vms_delta": -15.0625,
+      "tracemalloc_peak": 9.964427947998047,
+      "monitored_peak": 122.0,
+      "samples_count": 91
+    },
+    "LangChain_memory_intensive_10": {
+      "rss_delta": 0.296875,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 29.033756256103516,
+      "monitored_peak": 122.34375,
+      "samples_count": 176
+    },
+    "CrewAI_memory_intensive_10": {
+      "rss_delta": 1.71875,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 29.032550811767578,
+      "monitored_peak": 124.09375,
+      "samples_count": 136
+    },
+    "AutoGen_memory_intensive_10": {
+      "rss_delta": 3.546875,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 29.033344268798828,
+      "monitored_peak": 127.671875,
+      "samples_count": 161
+    },
+    "our_dsl_concurrent_operations_1": {
+      "rss_delta": -0.03125,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 1.0503044128417969,
+      "monitored_peak": 127.671875,
+      "samples_count": 10
+    },
+    "LangChain_concurrent_operations_1": {
+      "rss_delta": -0.03125,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 2.954364776611328,
+      "monitored_peak": 127.671875,
+      "samples_count": 18
+    },
+    "CrewAI_concurrent_operations_1": {
+      "rss_delta": -0.03125,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 2.954364776611328,
+      "monitored_peak": 127.671875,
+      "samples_count": 14
+    },
+    "AutoGen_concurrent_operations_1": {
+      "rss_delta": -0.03125,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 2.954364776611328,
+      "monitored_peak": 127.671875,
+      "samples_count": 17
+    },
+    "our_dsl_concurrent_operations_3": {
+      "rss_delta": -0.03125,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 3.031352996826172,
+      "monitored_peak": 127.671875,
+      "samples_count": 27
+    },
+    "LangChain_concurrent_operations_3": {
+      "rss_delta": 0.0,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 8.749774932861328,
+      "monitored_peak": 127.703125,
+      "samples_count": 53
+    },
+    "CrewAI_concurrent_operations_3": {
+      "rss_delta": -0.03125,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 8.749507904052734,
+      "monitored_peak": 127.703125,
+      "samples_count": 41
+    },
+    "AutoGen_concurrent_operations_3": {
+      "rss_delta": -0.03125,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 8.74972915649414,
+      "monitored_peak": 127.703125,
+      "samples_count": 50
+    },
+    "our_dsl_concurrent_operations_5": {
+      "rss_delta": -0.03125,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 5.012226104736328,
+      "monitored_peak": 127.703125,
+      "samples_count": 46
+    },
+    "LangChain_concurrent_operations_5": {
+      "rss_delta": -0.03125,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 14.545177459716797,
+      "monitored_peak": 127.703125,
+      "samples_count": 90
+    },
+    "CrewAI_concurrent_operations_5": {
+      "rss_delta": -0.015625,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 14.544719696044922,
+      "monitored_peak": 127.71875,
+      "samples_count": 69
+    },
+    "AutoGen_concurrent_operations_5": {
+      "rss_delta": -0.03125,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 14.544994354248047,
+      "monitored_peak": 127.71875,
+      "samples_count": 82
+    },
+    "our_dsl_concurrent_operations_10": {
+      "rss_delta": 0.5625,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 9.964519500732422,
+      "monitored_peak": 128.3125,
+      "samples_count": 92
+    },
+    "LangChain_concurrent_operations_10": {
+      "rss_delta": 8.234375,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 29.033802032470703,
+      "monitored_peak": 136.578125,
+      "samples_count": 179
+    },
+    "CrewAI_concurrent_operations_10": {
+      "rss_delta": 2.375,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 29.032550811767578,
+      "monitored_peak": 138.984375,
+      "samples_count": 136
+    },
+    "AutoGen_concurrent_operations_10": {
+      "rss_delta": -0.03125,
+      "vms_delta": -16.0625,
+      "tracemalloc_peak": 29.033321380615234,
+      "monitored_peak": 138.984375,
+      "samples_count": 160
+    }
+  },
+  "timestamp": "2025-09-15T12:04:45.774782",
+  "test_info": {
+    "total_tests": 48,
+    "scenarios": [
+      "data_processing",
+      "memory_intensive",
+      "concurrent_operations"
+    ],
+    "agent_counts": [
+      1,
+      3,
+      5,
+      10
+    ],
+    "frameworks": [
+      "Our DSL",
+      "LangChain",
+      "CrewAI",
+      "AutoGen"
+    ],
+    "random_seed": 42
+  }
+}

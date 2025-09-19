@@ -1,0 +1,242 @@
+{
+  "scalability": {
+    "1": {
+      "agent_count": 1,
+      "execution_time": 0.001318216323852539,
+      "throughput": 758.6008319768493,
+      "memory_usage": 0.0,
+      "avg_latency_per_task": 0.001318216323852539,
+      "memory_per_agent": 0.0
+    },
+    "5": {
+      "agent_count": 5,
+      "execution_time": 0.0012409687042236328,
+      "throughput": 4029.1104707012487,
+      "memory_usage": 0.0,
+      "avg_latency_per_task": 0.00024819374084472656,
+      "memory_per_agent": 0.0
+    },
+    "10": {
+      "agent_count": 10,
+      "execution_time": 0.0012578964233398438,
+      "throughput": 7949.78013646702,
+      "memory_usage": 0.0,
+      "avg_latency_per_task": 0.00012578964233398438,
+      "memory_per_agent": 0.0
+    },
+    "20": {
+      "agent_count": 20,
+      "execution_time": 0.0012671947479248047,
+      "throughput": 15782.893697083726,
+      "memory_usage": 0.03125,
+      "avg_latency_per_task": 6.335973739624023e-05,
+      "memory_per_agent": 0.0015625
+    },
+    "50": {
+      "agent_count": 50,
+      "execution_time": 0.0014870166778564453,
+      "throughput": 33624.37069103736,
+      "memory_usage": 0.0625,
+      "avg_latency_per_task": 2.9740333557128905e-05,
+      "memory_per_agent": 0.00125
+    },
+    "100": {
+      "agent_count": 100,
+      "execution_time": 0.001687765121459961,
+      "throughput": 59249.95055798841,
+      "memory_usage": 0.078125,
+      "avg_latency_per_task": 1.687765121459961e-05,
+      "memory_per_agent": 0.00078125
+    },
+    "200": {
+      "agent_count": 200,
+      "execution_time": 0.002235889434814453,
+      "throughput": 89449.86137769248,
+      "memory_usage": 0.171875,
+      "avg_latency_per_task": 1.1179447174072266e-05,
+      "memory_per_agent": 0.000859375
+    },
+    "500": {
+      "agent_count": 500,
+      "execution_time": 0.0033228397369384766,
+      "throughput": 150473.70309248762,
+      "memory_usage": 0.484375,
+      "avg_latency_per_task": 6.645679473876953e-06,
+      "memory_per_agent": 0.00096875
+    },
+    "1000": {
+      "agent_count": 1000,
+      "execution_time": 0.0052337646484375,
+      "throughput": 191067.055393586,
+      "memory_usage": 0.8125,
+      "avg_latency_per_task": 5.2337646484375e-06,
+      "memory_per_agent": 0.0008125
+    }
+  },
+  "concurrent_load": {
+    "1": {
+      "concurrent_level": 1,
+      "agent_count": 100,
+      "total_tasks": 100,
+      "execution_time": 0.0018608570098876953,
+      "throughput": 53738.680333119795,
+      "memory_usage": 0.0,
+      "avg_latency_per_task": 1.8608570098876952e-05
+    },
+    "2": {
+      "concurrent_level": 2,
+      "agent_count": 100,
+      "total_tasks": 200,
+      "execution_time": 0.001959085464477539,
+      "throughput": 102088.45077278813,
+      "memory_usage": 0.0,
+      "avg_latency_per_task": 9.795427322387696e-06
+    },
+    "5": {
+      "concurrent_level": 5,
+      "agent_count": 100,
+      "total_tasks": 500,
+      "execution_time": 0.0031180381774902344,
+      "throughput": 160357.24116837437,
+      "memory_usage": 0.015625,
+      "avg_latency_per_task": 6.2360763549804685e-06
+    },
+    "10": {
+      "concurrent_level": 10,
+      "agent_count": 100,
+      "total_tasks": 1000,
+      "execution_time": 0.005324125289916992,
+      "throughput": 187824.28014867226,
+      "memory_usage": 0.015625,
+      "avg_latency_per_task": 5.324125289916992e-06
+    },
+    "20": {
+      "concurrent_level": 20,
+      "agent_count": 100,
+      "total_tasks": 2000,
+      "execution_time": 0.010997772216796875,
+      "throughput": 181855.01214013182,
+      "memory_usage": 1.65625,
+      "avg_latency_per_task": 5.4988861083984375e-06
+    }
+  },
+  "memory_efficiency": {
+    "1": {
+      "agent_count": 1,
+      "initial_memory": 68.875,
+      "after_creation_memory": 71.078125,
+      "after_execution_memory": 71.078125,
+      "after_cleanup_memory": 71.078125,
+      "creation_memory": 2.203125,
+      "execution_memory": 0.0,
+      "cleanup_memory": 0.0,
+      "memory_per_agent": 2.203125
+    },
+    "10": {
+      "agent_count": 10,
+      "initial_memory": 71.078125,
+      "after_creation_memory": 71.140625,
+      "after_execution_memory": 71.140625,
+      "after_cleanup_memory": 71.140625,
+      "creation_memory": 0.0625,
+      "execution_memory": 0.0,
+      "cleanup_memory": 0.0,
+      "memory_per_agent": 0.00625
+    },
+    "50": {
+      "agent_count": 50,
+      "initial_memory": 71.140625,
+      "after_creation_memory": 71.53125,
+      "after_execution_memory": 71.53125,
+      "after_cleanup_memory": 71.53125,
+      "creation_memory": 0.390625,
+      "execution_memory": 0.0,
+      "cleanup_memory": 0.0,
+      "memory_per_agent": 0.0078125
+    },
+    "100": {
+      "agent_count": 100,
+      "initial_memory": 71.53125,
+      "after_creation_memory": 72.46875,
+      "after_execution_memory": 72.46875,
+      "after_cleanup_memory": 72.46875,
+      "creation_memory": 0.9375,
+      "execution_memory": 0.0,
+      "cleanup_memory": 0.0,
+      "memory_per_agent": 0.009375
+    },
+    "200": {
+      "agent_count": 200,
+      "initial_memory": 72.46875,
+      "after_creation_memory": 74.3125,
+      "after_execution_memory": 74.328125,
+      "after_cleanup_memory": 74.328125,
+      "creation_memory": 1.84375,
+      "execution_memory": 0.015625,
+      "cleanup_memory": 0.0,
+      "memory_per_agent": 0.00921875
+    },
+    "500": {
+      "agent_count": 500,
+      "initial_memory": 74.328125,
+      "after_creation_memory": 77.703125,
+      "after_execution_memory": 77.703125,
+      "after_cleanup_memory": 77.703125,
+      "creation_memory": 3.375,
+      "execution_memory": 0.0,
+      "cleanup_memory": 0.0,
+      "memory_per_agent": 0.00675
+    }
+  },
+  "fault_tolerance": {
+    "0.0": {
+      "failure_rate": 0.0,
+      "agent_count": 100,
+      "successful_tasks": 100,
+      "failed_tasks": 0,
+      "success_rate": 1.0,
+      "execution_time": 0.0016911029815673828,
+      "throughput": 59133.00437050613
+    },
+    "0.01": {
+      "failure_rate": 0.01,
+      "agent_count": 100,
+      "successful_tasks": 100,
+      "failed_tasks": 0,
+      "success_rate": 1.0,
+      "execution_time": 0.0015878677368164062,
+      "throughput": 62977.53753753754
+    },
+    "0.05": {
+      "failure_rate": 0.05,
+      "agent_count": 100,
+      "successful_tasks": 96,
+      "failed_tasks": 4,
+      "success_rate": 0.96,
+      "execution_time": 0.0015909671783447266,
+      "throughput": 60340.65397872021
+    },
+    "0.1": {
+      "failure_rate": 0.1,
+      "agent_count": 100,
+      "successful_tasks": 88,
+      "failed_tasks": 12,
+      "success_rate": 0.88,
+      "execution_time": 0.0016171932220458984,
+      "throughput": 54415.26640129736
+    },
+    "0.2": {
+      "failure_rate": 0.2,
+      "agent_count": 100,
+      "successful_tasks": 80,
+      "failed_tasks": 20,
+      "success_rate": 0.8,
+      "execution_time": 0.0015630722045898438,
+      "throughput": 51181.25686394143
+    }
+  },
+  "experiment_config": {
+    "max_agents": 1000,
+    "timestamp": 1757751721.531796
+  }
+}

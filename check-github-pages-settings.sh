@@ -1,0 +1,53 @@
+#!/bin/bash
+
+echo "🔧 GitHub Pages 设置检查清单"
+echo "============================"
+
+echo "📋 请按照以下步骤检查GitHub Pages设置:"
+echo ""
+echo "1. 🌐 访问GitHub Pages设置页面:"
+echo "   https://github.com/Max-YUAN-22/Multi-Agent_DSLframework-2025/settings/pages"
+echo ""
+echo "2. ⚙️ 确保以下设置正确:"
+echo "   • Source: GitHub Actions"
+echo "   • Branch: 不设置任何分支 (留空)"
+echo "   • Custom domain: 不设置"
+echo ""
+echo "3. 🔐 检查Actions权限设置:"
+echo "   https://github.com/Max-YUAN-22/Multi-Agent_DSLframework-2025/settings/actions"
+echo ""
+echo "4. ✅ 确保以下权限设置:"
+echo "   • Actions permissions: Read and write permissions"
+echo "   • Workflow permissions: Read and write permissions"
+echo "   • Allow GitHub Actions to create and approve pull requests: 启用"
+echo ""
+echo "5. 🏗️ 工作流文件检查:"
+echo "   ✅ 已创建简化的GitHub Pages工作流"
+echo "   ✅ 移除了复杂的任务依赖"
+echo "   ✅ 添加了environment配置"
+echo ""
+echo "6. 📁 构建文件检查:"
+if [ -d "frontend/build" ]; then
+    echo "   ✅ frontend/build 目录存在"
+    echo "   📄 包含文件:"
+    ls frontend/build/ | wc -l | xargs echo "   📊 文件数量:"
+else
+    echo "   ❌ frontend/build 目录不存在"
+fi
+
+echo ""
+echo "🚀 修复完成后的预期结果:"
+echo "• GitHub Pages部署应该在2-3分钟内完成"
+echo "• 访问地址: https://max-yuan-22.github.io/Multi-Agent_DSLframework-2025/"
+echo "• Vercel部署: https://multi-agent-ds-lframework-2025.vercel.app"
+
+echo ""
+echo "🔍 如果仍然失败，请检查:"
+echo "1. GitHub Pages设置是否正确"
+echo "2. 仓库权限是否足够"
+echo "3. 工作流文件语法是否正确"
+echo "4. 构建文件是否完整"
+
+echo ""
+echo "📱 监控部署状态:"
+echo "https://github.com/Max-YUAN-22/Multi-Agent_DSLframework-2025/actions"

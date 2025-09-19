@@ -1,0 +1,383 @@
+{
+  "cache_performance": [
+    {
+      "cache_type": "LRU",
+      "cache_size": 100,
+      "access_pattern": "sequential",
+      "hit_rate": 0.0,
+      "avg_latency": 2.549171447753906e-07,
+      "hits": 0,
+      "misses": 10000,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "LFU",
+      "cache_size": 100,
+      "access_pattern": "sequential",
+      "hit_rate": 0.0,
+      "avg_latency": 4.675388336181641e-07,
+      "hits": 0,
+      "misses": 10000,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "HCMPL",
+      "cache_size": 100,
+      "access_pattern": "sequential",
+      "hit_rate": 0.0,
+      "avg_latency": 7.761573791503907e-06,
+      "hits": 0,
+      "misses": 10000,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "LRU",
+      "cache_size": 100,
+      "access_pattern": "random",
+      "hit_rate": 0.5038,
+      "avg_latency": 3.547191619873047e-07,
+      "hits": 5038,
+      "misses": 4962,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "LFU",
+      "cache_size": 100,
+      "access_pattern": "random",
+      "hit_rate": 0.491,
+      "avg_latency": 3.0291080474853515e-07,
+      "hits": 4910,
+      "misses": 5090,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "HCMPL",
+      "cache_size": 100,
+      "access_pattern": "random",
+      "hit_rate": 0.4942,
+      "avg_latency": 3.1714916229248045e-06,
+      "hits": 4942,
+      "misses": 5058,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "LRU",
+      "cache_size": 100,
+      "access_pattern": "repeated",
+      "hit_rate": 0.9949,
+      "avg_latency": 2.7954578399658205e-07,
+      "hits": 9949,
+      "misses": 51,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "LFU",
+      "cache_size": 100,
+      "access_pattern": "repeated",
+      "hit_rate": 0.9949,
+      "avg_latency": 2.2592544555664062e-07,
+      "hits": 9949,
+      "misses": 51,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "HCMPL",
+      "cache_size": 100,
+      "access_pattern": "repeated",
+      "hit_rate": 0.9949,
+      "avg_latency": 2.845931053161621e-06,
+      "hits": 9949,
+      "misses": 51,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "LRU",
+      "cache_size": 500,
+      "access_pattern": "sequential",
+      "hit_rate": 0.0,
+      "avg_latency": 2.4247169494628904e-07,
+      "hits": 0,
+      "misses": 10000,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "LFU",
+      "cache_size": 500,
+      "access_pattern": "sequential",
+      "hit_rate": 0.0,
+      "avg_latency": 3.8640499114990235e-07,
+      "hits": 0,
+      "misses": 10000,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "HCMPL",
+      "cache_size": 500,
+      "access_pattern": "sequential",
+      "hit_rate": 0.0,
+      "avg_latency": 2.302405834197998e-05,
+      "hits": 0,
+      "misses": 10000,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "LRU",
+      "cache_size": 500,
+      "access_pattern": "random",
+      "hit_rate": 0.4835,
+      "avg_latency": 1.1767864227294923e-06,
+      "hits": 4835,
+      "misses": 5165,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "LFU",
+      "cache_size": 500,
+      "access_pattern": "random",
+      "hit_rate": 0.4814,
+      "avg_latency": 5.145549774169922e-07,
+      "hits": 4814,
+      "misses": 5186,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "HCMPL",
+      "cache_size": 500,
+      "access_pattern": "random",
+      "hit_rate": 0.4803,
+      "avg_latency": 4.4741630554199215e-06,
+      "hits": 4803,
+      "misses": 5197,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "LRU",
+      "cache_size": 500,
+      "access_pattern": "repeated",
+      "hit_rate": 0.9749,
+      "avg_latency": 8.978366851806641e-07,
+      "hits": 9749,
+      "misses": 251,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "LFU",
+      "cache_size": 500,
+      "access_pattern": "repeated",
+      "hit_rate": 0.9749,
+      "avg_latency": 2.852916717529297e-07,
+      "hits": 9749,
+      "misses": 251,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "HCMPL",
+      "cache_size": 500,
+      "access_pattern": "repeated",
+      "hit_rate": 0.9749,
+      "avg_latency": 2.9128074645996094e-06,
+      "hits": 9749,
+      "misses": 251,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "LRU",
+      "cache_size": 1000,
+      "access_pattern": "sequential",
+      "hit_rate": 0.0,
+      "avg_latency": 2.4051666259765623e-07,
+      "hits": 0,
+      "misses": 10000,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "LFU",
+      "cache_size": 1000,
+      "access_pattern": "sequential",
+      "hit_rate": 0.0,
+      "avg_latency": 3.933429718017578e-07,
+      "hits": 0,
+      "misses": 10000,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "HCMPL",
+      "cache_size": 1000,
+      "access_pattern": "sequential",
+      "hit_rate": 0.0,
+      "avg_latency": 3.8666629791259764e-05,
+      "hits": 0,
+      "misses": 10000,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "LRU",
+      "cache_size": 1000,
+      "access_pattern": "random",
+      "hit_rate": 0.4676,
+      "avg_latency": 1.7969846725463866e-06,
+      "hits": 4676,
+      "misses": 5324,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "LFU",
+      "cache_size": 1000,
+      "access_pattern": "random",
+      "hit_rate": 0.4712,
+      "avg_latency": 6.912469863891602e-07,
+      "hits": 4712,
+      "misses": 5288,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "HCMPL",
+      "cache_size": 1000,
+      "access_pattern": "random",
+      "hit_rate": 0.4563,
+      "avg_latency": 7.049703598022461e-06,
+      "hits": 4563,
+      "misses": 5437,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "LRU",
+      "cache_size": 1000,
+      "access_pattern": "repeated",
+      "hit_rate": 0.9499,
+      "avg_latency": 2.424454689025879e-06,
+      "hits": 9499,
+      "misses": 501,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "LFU",
+      "cache_size": 1000,
+      "access_pattern": "repeated",
+      "hit_rate": 0.9499,
+      "avg_latency": 5.199432373046875e-07,
+      "hits": 9499,
+      "misses": 501,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "HCMPL",
+      "cache_size": 1000,
+      "access_pattern": "repeated",
+      "hit_rate": 0.9499,
+      "avg_latency": 3.810834884643555e-06,
+      "hits": 9499,
+      "misses": 501,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "LRU",
+      "cache_size": 5000,
+      "access_pattern": "sequential",
+      "hit_rate": 0.0,
+      "avg_latency": 2.3162364959716798e-07,
+      "hits": 0,
+      "misses": 10000,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "LFU",
+      "cache_size": 5000,
+      "access_pattern": "sequential",
+      "hit_rate": 0.0,
+      "avg_latency": 5.464553833007812e-07,
+      "hits": 0,
+      "misses": 10000,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "HCMPL",
+      "cache_size": 5000,
+      "access_pattern": "sequential",
+      "hit_rate": 0.0,
+      "avg_latency": 0.00010044093132019044,
+      "hits": 0,
+      "misses": 10000,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "LRU",
+      "cache_size": 5000,
+      "access_pattern": "random",
+      "hit_rate": 0.3424,
+      "avg_latency": 4.926776885986328e-06,
+      "hits": 3424,
+      "misses": 6576,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "LFU",
+      "cache_size": 5000,
+      "access_pattern": "random",
+      "hit_rate": 0.3479,
+      "avg_latency": 2.895188331604004e-06,
+      "hits": 3479,
+      "misses": 6521,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "HCMPL",
+      "cache_size": 5000,
+      "access_pattern": "random",
+      "hit_rate": 0.3529,
+      "avg_latency": 2.390594482421875e-05,
+      "hits": 3529,
+      "misses": 6471,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "LRU",
+      "cache_size": 5000,
+      "access_pattern": "repeated",
+      "hit_rate": 0.7549,
+      "avg_latency": 5.611419677734375e-06,
+      "hits": 7549,
+      "misses": 2451,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "LFU",
+      "cache_size": 5000,
+      "access_pattern": "repeated",
+      "hit_rate": 0.7541,
+      "avg_latency": 1.5889644622802735e-06,
+      "hits": 7541,
+      "misses": 2459,
+      "total_operations": 10000
+    },
+    {
+      "cache_type": "HCMPL",
+      "cache_size": 5000,
+      "access_pattern": "repeated",
+      "hit_rate": 0.7546,
+      "avg_latency": 4.859399795532226e-06,
+      "hits": 7546,
+      "misses": 2454,
+      "total_operations": 10000
+    }
+  ],
+  "test_config": {
+    "cache_sizes": [
+      100,
+      500,
+      1000,
+      5000
+    ],
+    "access_patterns": [
+      "sequential",
+      "random",
+      "repeated"
+    ],
+    "cache_types": [
+      "LRU",
+      "LFU",
+      "HCMPL"
+    ],
+    "timestamp": 1757751717.637224
+  }
+}
