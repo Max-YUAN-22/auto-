@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import { BrowserRouter, Routes, Route, useNavigate } from 'react-router-dom';
+import { HashRouter, Routes, Route, useNavigate } from 'react-router-dom';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
 import { 
@@ -451,7 +451,7 @@ function EnterpriseNavigation() {
 // 企业级App组件
 function EnterpriseApp() {
   return (
-    <BrowserRouter basename="/">
+    <HashRouter>
       <ThemeProvider theme={enterpriseTheme}>
         <CssBaseline />
         <EnterpriseNavigation />
@@ -464,7 +464,7 @@ function EnterpriseApp() {
           <Route path="/dashboard" element={<EnterpriseHomePage />} />
         </Routes>
       </ThemeProvider>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
