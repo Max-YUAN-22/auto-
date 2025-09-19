@@ -1,21 +1,18 @@
 {
   "version": 2,
-  "builds": [
+  "buildCommand": "cd frontend && npm run build",
+  "outputDirectory": "frontend/build",
+  "installCommand": "cd frontend && npm install",
+  "framework": "create-react-app",
+  "rewrites": [
     {
-      "src": "frontend/package.json",
-      "use": "@vercel/static-build",
-      "config": {
-        "distDir": "build"
-      }
-    }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
+      "source": "/(.*)",
+      "destination": "/index.html"
     }
   ],
   "env": {
-    "REACT_APP_BACKEND_URL": "https://multi-agent-dsl-backend.railway.app"
+    "REACT_APP_BACKEND_URL": "https://multi-agent-dsl-backend.railway.app",
+    "REACT_APP_VERSION": "v2.0.0-enterprise",
+    "REACT_APP_ENVIRONMENT": "production"
   }
 }
