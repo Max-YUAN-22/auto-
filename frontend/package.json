@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "企业级多智能体DSL框架",
   "private": true,
-  "homepage": "./",
+  "homepage": "/",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
